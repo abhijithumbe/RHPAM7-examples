@@ -15,7 +15,6 @@ kcontext.setVariable("var1",person);
  http://localhost:8080/kie-server/services/rest/server/containers/BPMNDMNTest_1.0.22-SNAPSHOT/processes/MyDMNTest.TestProcess/instances 
  Payload: 
  
- =========
  {
 	"var1": 
 	{
@@ -26,5 +25,3 @@ kcontext.setVariable("var1",person);
         }
     }
 } 
- 
- =========
